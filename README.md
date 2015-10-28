@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-bash shell files
+shell files
